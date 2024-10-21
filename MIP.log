@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  7 OCT 2024 14:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  14 OCT 2024 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -405,4 +405,56 @@ Package hyperref Info: Link coloring OFF on input line 35.
 \@outlinefile=\write3
 \openout3 = `MIP.out'.
 
-LaTeX Font Info:    Trying to load font information for IL2+cmtt on inpu
+LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
+38.
+
+(C:\Users\risko\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
+File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
+)
+
+[1
+
+{C:/Users/risko/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (MIP.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+ ***********
+
+
+Package rerunfilecheck Warning: File `MIP.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `MIP.out':
+(rerunfilecheck)             Before: 6BF7BDBB22970EA364418E0E0DC53B97;149
+(rerunfilecheck)             After:  D5B5AC65C235E3687D6DFBA15056BE67;66.
+ ) 
+Here is how much of TeX's memory you used:
+ 11499 strings out of 473899
+ 181067 string characters out of 5726500
+ 597569 words of memory out of 5000000
+ 34212 multiletter control sequences out of 15000+600000
+ 568951 words of font info for 65 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,7n,79p,1571b,496s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{section.2} has been referenced but does not exist, 
+replaced by a fixed one
+
+ <C:\Users\risko\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr
+10.pk> <C:\Users\risko\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi6
+00\csr8.pk> <C:\Users\risko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\tcrm0600.pk> <C:\Users\risko\AppData\Local\MiKTeX\fonts/pk/ljfour/public/c
+sfonts/dpi720\csbx12.pk> <C:\Users\risko\AppData\Local\MiKTeX\fonts/pk/ljfour/p
+ublic/csfonts/dpi600\csbx9.pk> <C:\Users\risko\AppData\Local\MiKTeX\fonts/pk/lj
+four/public/csfonts/dpi600\cstt9.pk> <C:\Users\risko\AppData\Local\MiKTeX\fonts
+/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\risko\AppData\Local\MiKTeX\
+fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\risko\AppData\Local\M
+iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\risko\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
+Output written on MIP.pdf (1 page, 61020 bytes).
+PDF statistics:
+ 217 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+
